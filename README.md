@@ -7,3 +7,6 @@ Node JS App: Creates sounds kits with x number of pads per kit. This well help m
  - [ ] Randomly select x amount of sounds that fuzzy matches a any paramters from a set of search paramters. The number of sounds to be selected per parameter can be spesified within range of the total number of pads available in the current kit.
  
  - [ ] Save the new Kit 
+ 
+ - [ ] Have the ability to create multiple org paths. Using inital directory seperators
+ 
